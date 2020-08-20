@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Lesson6_Final.data.unityweb",
+"wasmCodeUrl": "Lesson6_Final.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lesson6_Final.wasm.framework.unityweb",
+"asmCodeUrl": "Lesson6_Final.asm.code.unityweb",
+"asmMemoryUrl": "Lesson6_Final.asm.memory.unityweb",
+"asmFrameworkUrl": "Lesson6_Final.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
